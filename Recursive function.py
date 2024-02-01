@@ -7,3 +7,9 @@ def f(n):
 
 s=input("Ingrese el numero que quiere ver ")
 print(f(int(s)))
+
+
+#Quiero declarar una variable que multiplique por 2 la función.
+
+Multi=f(int(s))*2
+print(Multi)
